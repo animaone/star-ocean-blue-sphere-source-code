@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "compiling code.o"
+wla-gb -o code.o code.asm
+echo "linking code.o"
+wlalink -S code.link code.gbc
