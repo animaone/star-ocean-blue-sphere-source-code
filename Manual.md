@@ -3,14 +3,9 @@
 Manual compreensivo de desmontagem e re-montagem universal de binários.
 
 
-
-As regras do poder:
-  
   
 1 - Comece pelos dados, nunca pelo código
-2 - Pokémon -> use um utilitário para disassemblar pequenas seções de código
-  
-outras regras virão...
+2 - Use um utilitário para disassemblar pequenas seções de código
 
 
 
@@ -26,4 +21,3 @@ Por exemplo, a separação dos dados irá automagicamente facilitar a análise d
 que ocorrerá depois, pois irá diminuir a quantidade de código gerada.
 
 
-idéia -> ()???? banco de dados????
