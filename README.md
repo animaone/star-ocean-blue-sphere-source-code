@@ -10,7 +10,7 @@ I am trying to create new tools to analyze the code and generate relevant and co
 ### The code was 100% programmed by hand, in ASM, so, there are no compiler pattern, nor symbol information
 ### I am documenting the story of the programmers
 
-If you have document any part of the source code, please provide a symbols file so that we can grow the documentation, which is not possible to be done in an automated way.
+If you have documented any part of the source code, please provide a symbols file so that we can grow the documentation, which is not possible to be done in an automated way.
 
 # Building:
 TO COMPILE: EXECUTE ./compile -> you will need wla-gb to compile
