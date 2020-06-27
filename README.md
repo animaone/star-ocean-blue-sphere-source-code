@@ -1,6 +1,7 @@
 This is an extracted source code from star ocean blue sphere, done automatically using my own dynamic disassembler
 
-The disassembly present in this repository does not represent its last version, it is being grouwn as the code extraction is automated and polished
+#### The disassembly present in this repository does not represent its last version, it is being grouwn as the code extraction is automated and polished
+
 I am trying to create new tools to analyze the code and generate relevant and comprehensive code.
 
 # Facts about Star Ocean Blue Sphere and the current stage of the disassembler:
