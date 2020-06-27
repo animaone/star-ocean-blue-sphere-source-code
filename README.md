@@ -1,3 +1,4 @@
+![](asm.jpg)
 This is an extracted source code from star ocean blue sphere, done automatically using my own dynamic disassembler
 
 # The disassembly present in this repository does not represent the last state of this project, it is being built as the code extraction is automated and polished
@@ -18,4 +19,4 @@ TO COMPILE: EXECUTE ./compile -> you will need wla-gb to compile
 
 # Current state of the disassembler
 
-![](asm.jpg)
+
