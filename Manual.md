@@ -30,6 +30,6 @@ depois, utiliza a informação desses observadores para gerar o código.
 OBSERVAR -> TIRAR CONCLUSÕES - DESASSEMBLAR -> DOCUMENTAR
 
   A etapa de documentação continua sendo a mais difícil, e infelizmente não pode ser automatizada. Essa
-essa etapa necessita de intervenção humana, que possa analisar os pontos importantes do código e documentá-los.
+etapa necessita de intervenção humana, que possa analisar os pontos importantes do código e documentá-los.
 
 
