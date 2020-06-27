@@ -8,7 +8,7 @@ I am trying to create new tools to analyze the code and generate relevant and co
 ### ~= 59000 Lines of code
 ### some random functions documented
 ### The code was 100% programmed by hand, in ASM, so, there are no compiler pattern, nor symbol information
-### I am documenting everything, even the story of the programmers
+### I am documenting the story of the programmers
 
 If you have document any part of the source code, please provide a symbols file so that we can grow the documentation, which is not possible to be done in an automated way.
 
