@@ -6,7 +6,7 @@ I am trying to create new tools to analyze the code and generate relevant and co
 # Facts about Star Ocean Blue Sphere and the current stage of the disassembler:
 ### label generation
 ### ~= 59000 Lines of code
-### Random functions documented
+### some random functions documented
 ### The code was 100% programmed by hand, in ASM, so, there are no compiler pattern, nor symbol information
 ### I am documenting everything, even the story of the programmers
 
