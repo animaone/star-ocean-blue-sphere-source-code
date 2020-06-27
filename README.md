@@ -1,4 +1,6 @@
+# Current state of the disassembler
 ![](asm.jpg)
+
 This is an extracted source code from star ocean blue sphere, done automatically using my own dynamic disassembler
 
 # The disassembly present in this repository does not represent the last state of this project, it is being built as the code extraction is automated and polished
@@ -17,6 +19,6 @@ If you have documented any part of the source code, please provide a symbols fil
 # Building:
 TO COMPILE: EXECUTE ./compile -> you will need wla-gb to compile
 
-# Current state of the disassembler
+
 
 
