@@ -5,8 +5,8 @@ This is an extracted source code from star ocean blue sphere, done automatically
 
 # 2020 version released!
 
-sobs_new/ <- 2020 version
-sobs_old/ <- old version for historical purposes
+## sobs_new/ <- 2020 version
+## sobs_old/ <- old version for historical purposes
 
 
 # Facts about Star Ocean Blue Sphere and the current stage of the disassembler:
