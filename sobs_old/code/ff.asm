@@ -1,2 +1,0 @@
-.BANK $ff SLOT 1
-.ORG 0
