@@ -6,7 +6,6 @@ This is an extracted source code from star ocean blue sphere, done automatically
 # 2020 version released!
 
 ## sobs_new/ <- 2020 version
-## sobs_old/ <- old version for historical purposes
 
 
 # Facts about Star Ocean Blue Sphere and the current stage of the disassembler:
@@ -24,5 +23,6 @@ wla-gb version used: wla-gb 9.11a
 there is a symbols file that can be used for documenting/debugging purposes: Asmrom.sym https://github.com/animaone/star-ocean-blue-sphere-source-code/blob/master/asmRom.sym
 
 
-
+# Previous source code version:
+old version for historical purposes (check old source code branch here: https://github.com/animaone/star-ocean-blue-sphere-source-code/tree/old_version)
 
