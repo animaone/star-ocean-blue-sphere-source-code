@@ -20,7 +20,9 @@ TO COMPILE: EXECUTE ./sobs_new/buildRom.sh -> you will need wla-gb to compile
 wla-gb version used: wla-gb 9.11a
 
 # Symbols File:
-there is a symbols file that can be used for documenting/debugging purposes: Asmrom.sym https://github.com/animaone/star-ocean-blue-sphere-source-code/blob/master/asmRom.sym
+There is a symbols file that can be used for documenting/debugging purposes: Asmrom.sym https://github.com/animaone/star-ocean-blue-sphere-source-code/blob/master/asmRom.sym
+Symbols files are supported in the following emulators: bgb and gearboy
+
 
 
 # Previous source code version:
