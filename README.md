@@ -21,6 +21,7 @@ wla-gb version used: wla-gb 9.11a
 
 # Symbols File:
 There is a symbols file that can be used for documenting/debugging purposes: Asmrom.sym https://github.com/animaone/star-ocean-blue-sphere-source-code/blob/master/asmRom.sym
+
 Symbols files are supported in the following emulators: bgb and gearboy
 
 
