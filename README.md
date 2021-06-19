@@ -11,7 +11,7 @@ This is an extracted source code from star ocean blue sphere, done automatically
 # Facts about Star Ocean Blue Sphere and the current stage of the disassembler:
 ### label generation
 ### ~= 70000 Lines of code
-### I am documenting the story of the programmers
+
 
 # If you have documented any part of the source code, please provide a symbols file so that we can grow the documentation, which is not possible to be done in an automated way.
 
