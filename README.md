@@ -16,8 +16,7 @@ This is an extracted source code from star ocean blue sphere, done automatically
 # If you have documented any part of the source code, please provide a symbols file so that we can grow the documentation, which is not possible to be done in an automated way.
 
 # Building:
-TO COMPILE: EXECUTE ./sobs_new/buildRom.sh -> you will need wla-gb to compile
-wla-gb version used: wla-gb 9.11a
+TO COMPILE: EXECUTE ./sobs_new/buildRom.sh -> you will need wla-gb to compile. wla-gb version used: wla-gb 9.11a
 
 # Symbols File:
 There is a symbols file that can be used for documenting/debugging purposes: Asmrom.sym https://github.com/animaone/star-ocean-blue-sphere-source-code/blob/master/asmRom.sym
