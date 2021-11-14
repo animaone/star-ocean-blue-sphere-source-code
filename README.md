@@ -1,3 +1,6 @@
+# % of code documented (code and variables)
+![30%](https://progress-bar.dev/50)
+
 # Current state of the disassembler
 ![](asm.jpg)
 
@@ -12,9 +15,6 @@ This is an extracted source code from star ocean blue sphere, done automatically
 ### label generation
 ### ~= 70000 Lines of code
 
-
-# If you have documented any part of the source code, please provide a symbols file so that we can grow the documentation, which is not possible to be done in an automated way.
-
 # Building:
 TO COMPILE: EXECUTE ./sobs_new/buildRom.sh -> you will need wla-gb to compile. wla-gb version used: wla-gb 9.11a
 
@@ -27,4 +27,7 @@ Symbols files are supported in the following emulators: BGB and GearBoy
 
 # Previous source code version:
 old version for historical purposes (check old source code branch here: https://github.com/animaone/star-ocean-blue-sphere-source-code/tree/old_version)
+
+
+# If you have documented any part of the source code, please provide a symbols file so that we can grow the documentation, which is not possible to be done in an automated way.
 
