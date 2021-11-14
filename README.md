@@ -1,5 +1,4 @@
-### % of code documented (code and variables)
-![30%](https://progress-bar.dev/50)
+### % of code documented (code and variables): ![30%](https://progress-bar.dev/50)
 
 # Current state of the disassembler
 ![](asm.jpg)
