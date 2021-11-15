@@ -4,9 +4,10 @@
 ## Current state of the disassembler
 ![image](https://user-images.githubusercontent.com/31348553/141713033-80ae0b67-fc62-48c1-9cc1-95b8f18c9cac.png)
 
-![](asm.jpg)
-
 This is an extracted source code from star ocean blue sphere, done automatically using my own dynamic disassembler
+
+## Some beautiful code:
+![](asm.jpg)
 
 ## 2020 version released!
 
