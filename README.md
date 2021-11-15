@@ -1,18 +1,23 @@
+
 ### % of code documented (code and variables): ![30%](https://progress-bar.dev/30)
 
-# Current state of the disassembler
+## Current state of the disassembler
 ![](asm.jpg)
 
 This is an extracted source code from star ocean blue sphere, done automatically using my own dynamic disassembler
 
-# 2020 version released!
+## 2020 version released!
 
-## sobs_new/ <- 2020 version
+### sobs_new/ <- 2020 version
 
 
-# Facts about Star Ocean Blue Sphere and the current stage of the disassembler:
-### label generation
-### ~= 70000 Lines of code
+### Facts about Star Ocean Blue Sphere and the current stage of the disassembler:
+
+ - ~= 70000 Lines of **assembly** source code
+ - Programmed by 3 persons: 
+   - Teruki Okusi
+   - Naohisa Kamei
+   - Natsuki Nishimura
 
 # Building:
 TO COMPILE: EXECUTE ./sobs_new/buildRom.sh -> you will need wla-gb to compile. wla-gb version used: wla-gb 9.11a
