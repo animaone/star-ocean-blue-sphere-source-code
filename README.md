@@ -20,7 +20,7 @@
    - Teruki Okusi
    - Naohisa Kamei
    - Natsuki Nishimura
- - Yeah. I know a game is not made only by the programmers, there are game designers, graphic artists, musicians, salesperson, logistics specialists, marketing, but... I still am amazed that this game was created by a so small quantity of ninjas, totally in assembly and I find it extremely important to emphasize this, specially in times when absence of hardship make the newbie programmers so weak, because the easiest way is the principle of mediocrity.
+ - Yeah. I know a game is not made only by the programmers, there are game designers, graphic artists, musicians, salesperson, logistics specialists, marketing, but... I still am amazed that this game was created by a so small quantity of ninjas, many thanks for this piece of art.
 
 # Building:
 TO COMPILE: EXECUTE ./sobs_new/buildRom.sh -> you will need wla-gb to compile. wla-gb version used: wla-gb 9.11a
