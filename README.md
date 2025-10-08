@@ -1,6 +1,7 @@
 ## This repository contains an extracted source code from the Gameboy Color game Star Ocean Blue Sphere, the extraction was done automatically using my own dynamic disassembler
 
-### % of code documented (code and variables): ![36%](https://progress-bar.dev/30)
+### I am currently documenting this source code manually.
+### The percentage % of code documented (code and variables) actually is: ![36%](https://progress-bar.dev/30)
 
 ## Current state of the disassembler:
 ![image](https://user-images.githubusercontent.com/31348553/141713033-80ae0b67-fc62-48c1-9cc1-95b8f18c9cac.png)
@@ -37,4 +38,5 @@ old version for historical purposes (check old source code branch here: https://
 
 
 # If you have documented any part of the source code, please provide a symbols file so that we can grow the documentation, which is not possible to be done in an automated way.
+
 
